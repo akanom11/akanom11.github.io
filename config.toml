@@ -1,0 +1,4 @@
+baseURL = 'https://akanom11.github.io'
+languageCode = 'es-es'
+title = 'Mi espacio personal'
+theme = "PaperMod"
