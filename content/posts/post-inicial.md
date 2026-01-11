@@ -1,7 +1,7 @@
 ---
 title: "Post Inicial"
 date: 2026-01-11T23:17:58+01:00
-draft: true
+draft: false
 ---
 Este será mi proyecto personal: un espacio donde escribiré acerca de temas que me gusten y donde pueda expresar mi opinión. Hablaré sobre libros, películas, videojuegos, informática, filosofía y religión, entre otros.
 
