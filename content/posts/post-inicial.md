@@ -7,5 +7,4 @@ Este será mi proyecto personal: un espacio donde escribiré acerca de temas que
 
 No pretendo que sea algo conocido, pero tampoco quiero esconderlo de nadie.
 
-Si estás leyendo esto, ¡espero que encuentres algo de tu agrado!
-
+Si estás leyendo esto espero que encuentres algo de tu agrado!

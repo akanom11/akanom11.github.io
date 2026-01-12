@@ -1,4 +1,69 @@
-baseURL = 'https://akanom11.github.io'
-languageCode = 'es-es'
-title = 'Mi espacio personal'
+baseURL = "https://akanom11.github.io/"
+languageCode = "es-es"
+title = "Rincón de Antonio"
+
 theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+
+# Homepage: Presentación personal
+[params.profileMode]
+  enabled = true
+  title = "Sitio de Antonio"
+  subtitle = "Espacio personal | Sysadmin, libros, cine, deporte, juegos y pensamientos"
+  imageUrl = "images/me.jpg"
+  buttons = [
+    {name = "💻 Sysadmin/DevOps", url = "/sysadmin/"},
+    {name = "📚 Blog", url = "/posts/"},
+    {name = "👤 Acerca de", url = "/about/"},
+  ]
+
+# Menú principal
+[[menu.main]]
+  name = "Sysadmin"
+  url = "/sysadmin/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Acerca"
+  url = "/about/"
+  weight = 3
+
+# Submenús Blog (opcional)
+[[menu.main]]
+  name = "Libros 📚"
+  url = "/posts/libros/"
+  parent = "Blog"
+  weight = 1
+
+[[menu.main]]
+  name = "Juegos 🎮"
+  url = "/posts/juegos/"
+  parent = "Blog"
+  weight = 2
+
+[[menu.main]]
+  name = "Deporte 🥋"
+  url = "/posts/deporte/"
+  parent = "Blog"
+  weight = 2
+
+[[menu.main]]
+  name = "Cine y series 🎬"
+  url = "/posts/cine/"
+  parent = "Blog"
+  weight = 3
+
+[[menu.main]]
+  name = "Pensamientos 💭"
+  url = "/posts/pensamientos/"
+  parent = "Blog"
+  weight = 4
+
