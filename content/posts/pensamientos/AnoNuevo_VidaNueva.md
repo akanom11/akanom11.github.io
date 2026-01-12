@@ -1,3 +1,9 @@
+---
+title: "AnoNuevo_VidaNueva"
+date: 2026-01-13T00:16:21+01:00
+draft: false
+---
+
 # Propósitos de Año Nuevo
 
 Año nuevo, vida nueva; ese es el dicho que año tras año he ido escuchando.
